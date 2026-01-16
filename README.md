@@ -87,4 +87,4 @@ Front-end simples em HTML/CSS
 
 📸 Screenshot Resultado Final: 
 
-![Homepage](screenshots/resultado.jpeg)
+![Homepage](portfolio-app/screenshots/resultado.jpg)
